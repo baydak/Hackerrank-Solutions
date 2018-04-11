@@ -3,7 +3,7 @@ package thirtydaysofcode;
 import java.util.*;
 import java.text.*;
 
-public class Day1 {
+public class Day1DataTypes {
     public static void main(String[] args) {
         int i = 4;
         double d = 4.0;
