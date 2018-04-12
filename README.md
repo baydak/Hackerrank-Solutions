@@ -1,9 +1,9 @@
-# Hackerrank-Solutions
+# Hackerrank Solutions
 
 * [30 DAYS OF CODE](#30-days-of-code)
 * [ALGORITHMS](#algorithms)
 
-# 30 DAYS OF CODE
+## 30 DAYS OF CODE
 | Day | Challenge | Solution |
 |:---:|:---:|:---:|
 |  0  | [Hello, World](https://www.hackerrank.com/challenges/30-hello-world) | [Day0HelloWorld.java](https://github.com/baydak/Hackerrank-Solutions/blob/master/src/thirtydaysofcode/Day0HelloWorld.java) |
@@ -23,3 +23,26 @@
 |  14 | [Scope](https://www.hackerrank.com/challenges/30-scope/problem) | [Day14Scope.java](https://github.com/baydak/Hackerrank-Solutions/blob/master/src/thirtydaysofcode/Day14Scope.java) |
 |  15 | [Linked List](https://www.hackerrank.com/challenges/30-linked-list/problem) | [Day15LinkedList.java](https://github.com/baydak/Hackerrank-Solutions/blob/master/src/thirtydaysofcode/Day15LinkedList.java) |
 |  16 | [Exceptions - String to Integer](https://www.hackerrank.com/challenges/30-exceptions-string-to-integer/problem) | [Day16Exceptions.java](https://github.com/baydak/Hackerrank-Solutions/blob/master/src/thirtydaysofcode/Day16Exceptions.java) |
+
+
+## ALGORITHMS
+
+| Subdomain | Challenge | Solution |
+|:----:|:-------------:|:---------:|
+| Warmup | [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first/problem)                                                 | [SolveMeFirst.java](https://github.com/baydak/Hackerrank-Solutions/blob/master/src/algorithms/SolveMeFirst.java) |
+| Warmup | [Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum/problem)                                             | [SimpleArraySum.java](https://github.com/baydak/Hackerrank-Solutions/blob/master/src/algorithms/SimpleArraySum.java) |
+| Warmup | [Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets/problem)                                     | [CompareTheTriplets.java](https://github.com/baydak/Hackerrank-Solutions/blob/master/src/algorithms/CompareTheTriplets.java) |
+| Warmup | [A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum/problem) | [AVeryBigSum.java](https://github.com/baydak/Hackerrank-Solutions/blob/master/src/algorithms/AVeryBigSum.java) |
+| Warmup | [Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem) | [DiagonalDifference.java](https://github.com/baydak/Hackerrank-Solutions/blob/master/src/algorithms/DiagonalDifference.java) |
+| Warmup | [Plus Minus](https://www.hackerrank.com/challenges/plus-minus/problem) | [PlusMinus.java](https://github.com/baydak/Hackerrank-Solutions/blob/master/src/algorithms/PlusMinus.java) |
+| Warmup | [Staircase](https://www.hackerrank.com/challenges/staircase/problem) | [Staircase.java](https://github.com/baydak/Hackerrank-Solutions/blob/master/src/algorithms/Staircase.java) |
+| Warmup | [Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem) | [MiniMaxSum.java](https://github.com/baydak/Hackerrank-Solutions/blob/master/src/algorithms/MiniMaxSum.java) |
+| Warmup | [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem) | [BirthdayCakeCandles.java](https://github.com/baydak/Hackerrank-Solutions/blob/master/src/algorithms/BirthdayCakeCandles.java) |
+| Warmup | [Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem) | [TimeConversion.java](https://github.com/baydak/Hackerrank-Solutions/blob/master/src/algorithms/TimeConversion.java) |
+| Implementation | [Grading Students](https://www.hackerrank.com/challenges/grading/problem) | [GradingStudents.java](https://github.com/baydak/Hackerrank-Solutions/blob/master/src/algorithms/GradingStudents.java) |
+| Implementation | [Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange/problem) | [AppleAndOrange.java](https://github.com/baydak/Hackerrank-Solutions/blob/master/src/algorithms/AppleAndOrange.java) |
+| Implementation | [Kangaroo](https://www.hackerrank.com/challenges/kangaroo/problem) | [Kangaroo.java](https://github.com/baydak/Hackerrank-Solutions/blob/master/src/algorithms/Kangaroo.java) |
+| Implementation | [Divisible Sum Pairs](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem) | [DivisibleSumPairs.java](https://github.com/baydak/Hackerrank-Solutions/blob/master/src/algorithms/DivisibleSumPairs.java) |
+| Implementation | [Drawing Book](https://www.hackerrank.com/challenges/drawing-book/problem) | [DrawingBook.java](https://github.com/baydak/Hackerrank-Solutions/blob/master/src/algorithms/DrawingBook.java) |
+| Implementation | [Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys/problem) | [CountingValleys.java](https://github.com/baydak/Hackerrank-Solutions/blob/master/src/algorithms/CountingValleys.java) |
+| Implementation | [Electronics Shop](https://www.hackerrank.com/challenges/electronics-shop/problem) | [ElectronicsShop.java](https://github.com/baydak/Hackerrank-Solutions/blob/master/src/algorithms/ElectronicsShop.java) |
