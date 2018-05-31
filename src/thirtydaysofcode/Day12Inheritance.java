@@ -2,14 +2,14 @@ package thirtydaysofcode;
 
 import java.util.Scanner;
 
-class Person {
+class Person2 {
 
     protected String firstName;
     protected String lastName;
     protected int idNumber;
 
     // Constructor
-    Person(String firstName, String lastName, int identification) {
+    Person2(String firstName, String lastName, int identification) {
         this.firstName = firstName;
         this.lastName = lastName;
         this.idNumber = identification;
@@ -23,7 +23,7 @@ class Person {
     }
 }
 
-class Student extends Person {
+class Student extends Person2 {
 
     private int[] testScores;
     /*	
